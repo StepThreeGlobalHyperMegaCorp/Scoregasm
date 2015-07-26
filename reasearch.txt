@@ -1,0 +1,14 @@
+Just some early web pages we looked at. 
+
+Using Tesseract to Recognize License Plates
+http://stackoverflow.com/questions/19268648/using-tesseract-to-recognize-license-plates
+
+Image recognition in Python
+http://francescopochetti.com/text-recognition-natural-scenes/
+
+Automatically Detect and Recognize Text in Natural Images
+http://www.mathworks.com/help/vision/examples/automatically-detect-and-recognize-text-in-natural-images.html
+
+Extracting text from an image using Ocropus
+http://www.danvk.org/2015/01/09/extracting-text-from-an-image-using-ocropus.html
+
